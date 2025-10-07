@@ -1,0 +1,21 @@
+Peru                 America      33000000
+Japon                Asia        125000000
+Canada               America      38000000
+Mexico               America     128000000
+Espana               Europa       48000000
+Italia               Europa       59000000
+Estados Unidos       America     331000000
+Francia              Europa       67000000
+China                Asia       1410000000
+Alemania             Europa       83000000
+Uruguay              America       3500000
+Reino Unido          Europa       67000000
+Argentina            America      46000000
+Rusia                Europa      144000000
+Brasil               America     213000000
+Egipto               Africa      104000000
+India                Asia       1390000000
+Australia            Oceania      26000000
+Chile                America      19000000
+Sudafrica            Africa       60000000
+ 
